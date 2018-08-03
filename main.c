@@ -8,5 +8,7 @@ int main()
 
    printf("pushed our local repository to github\n");
  
+   int a=0;
+ 
    return 0;
  }
